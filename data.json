@@ -1,0 +1,83 @@
+[
+    {
+      "krankheit": "Grippe",
+      "symptome": ["Hohes Fieber", "Trockener Husten", "Starke Gliederschmerzen", "Schüttelfrost"]
+    },
+    {
+      "krankheit": "Erkältung",
+      "symptome": ["Schnupfen", "Leichte Halsschmerzen", "Niesen", "Leichtes Fieber"]
+    },
+    {
+      "krankheit": "Covid-19",
+      "symptome": ["Fieber", "Husten", "Geruchs- und Geschmacksverlust", "Erschöpfung"]
+    },
+    {
+      "krankheit": "Migräne",
+      "symptome": ["Starke, einseitige Kopfschmerzen", "Licht- und Geräuschempfindlichkeit", "Übelkeit", "Sehstörungen"]
+    },
+    {
+      "krankheit": "Sinusitis",
+      "symptome": ["Druckgefühl im Gesicht", "Verstopfte Nase", "Kopfschmerzen", "Gelbgrüner Nasenausfluss"]
+    },
+    {
+      "krankheit": "Bronchitis",
+      "symptome": ["Husten mit Schleimauswurf", "Brustschmerzen beim Husten", "Heiserkeit", "leichtes Fieber"]
+    },
+    {
+      "krankheit": "Lungenentzündung",
+      "symptome": ["Hohes Fieber", "Atemnot", "Produktiver Husten", "Brustschmerzen beim Einatmen"]
+    },
+    {
+      "krankheit": "Tonsillitis",
+      "symptome": ["Halsschmerzen", "Schluckbeschwerden", "Rötung und Schwellung der Mandeln", "Fieber"]
+    },
+    {
+      "krankheit": "Magen-Darm-Infekt",
+      "symptome": ["Übelkeit", "Erbrechen", "Durchfall", "Bauchkrämpfe"]
+    },
+    {
+      "krankheit": "Mittelohrentzündung",
+      "symptome": ["Ohrenschmerzen", "Fieber", "Hörprobleme", "Allgemeines Krankheitsgefühl"]
+    },
+    {
+      "krankheit": "Allergische Rhinitis",
+      "symptome": ["Niesen", "Laufende oder verstopfte Nase", "Juckende Augen", "Tränende Augen"]
+    },
+    {
+      "krankheit": "Pfeiffersches Drüsenfieber",
+      "symptome": ["Halsschmerzen", "Geschwollene Lymphknoten", "Fieber", "Extreme Müdigkeit"]
+    },
+    {
+      "krankheit": "Asthma bronchiale",
+      "symptome": ["Atemnot bei Belastung", "Pfeifende Atemgeräusche", "Hustenanfälle", "Engegefühl in der Brust"]
+    },
+    {
+      "krankheit": "Gastroenteritis",
+      "symptome": ["Plötzlicher Durchfall", "Bauchschmerzen", "Übelkeit", "Fieber"]
+    },
+    {
+      "krankheit": "Keuchhusten",
+      "symptome": ["Starkes, anfallsartiges Husten", "Atemnot", "Erbrechen nach Hustenanfällen", "Hohes Fiepen beim Einatmen"]
+    },
+    {
+      "krankheit": "Mononukleose",
+      "symptome": ["Starke Halsschmerzen", "Lymphknotenschwellung", "Müdigkeit", "Fieber"]
+    },
+    {
+      "krankheit": "Bindehautentzündung",
+      "symptome": ["Gerötete Augen", "Juckreiz", "Tränende Augen", "Fremdkörpergefühl"]
+    },
+    {
+      "krankheit": "Influenza B",
+      "symptome": ["Plötzlicher Krankheitsbeginn", "Schüttelfrost", "Muskelschmerzen", "Schwächegefühl"]
+    },
+    {
+      "krankheit": "Nasennebenhöhlenentzündung",
+      "symptome": ["Gesichtsschmerzen beim Vorbeugen", "Druckgefühl im Kopf", "Eitriger Nasenausfluss", "Kopfschmerzen"]
+    },
+    {
+      "krankheit": "Laryngitis",
+      "symptome": ["Heiserkeit", "Kratzen im Hals", "Schwierigkeiten beim Sprechen", "Trockener Husten"]
+    }
+  ]
+  
